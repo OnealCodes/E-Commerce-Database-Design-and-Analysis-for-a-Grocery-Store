@@ -57,6 +57,5 @@ those that haven’t at all.
 
 Analysis Answer:
 
-![EER Diagram](https://github.com/OnealCodes/E-Commerce-Database-Design-and-Analysis-for-a-Grocery-Store/assets/158052840/645cedb![E-commerce dashboard](https://github.com/OnealCodes/E-Commerce-Database-Design-and-Analysis-for-a-Grocery-Store/assets/158052840/065064bc-978c-4e26-a0f8-61ededa8c71c)
-5-5df5-4caa-8b6a-236f330a4453)
+![E-commerce dashboard](https://github.com/OnealCodes/E-Commerce-Database-Design-and-Analysis-for-a-Grocery-Store/assets/158052840/e760ed80-1158-471b-ad51-92497aa6bbc0)
 
