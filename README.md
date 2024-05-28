@@ -59,7 +59,7 @@ those that haven’t at all.
 
 
 # Analysis Answer:
-#### Toola used: MySQL and PowerBI
+#### Tools used: MySQL and POWERBI
 
 
 ![EER Diagram](https://github.com/OnealCodes/E-Commerce-Database-Design-and-Analysis-for-a-Grocery-Store/assets/158052840/8e1c2f81-eda1-42e7-bda5-0a6fd07af7d5)
