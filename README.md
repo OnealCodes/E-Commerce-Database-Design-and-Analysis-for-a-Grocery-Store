@@ -53,3 +53,10 @@ those that haven’t at all.
 14. Most use Supplier.*
 - Questions with (*) are the metrics and KPI questions, while the ones without are the analysis questions
 
+
+
+Analysis Answer:
+
+![EER Diagram](https://github.com/OnealCodes/E-Commerce-Database-Design-and-Analysis-for-a-Grocery-Store/assets/158052840/645cedb![E-commerce dashboard](https://github.com/OnealCodes/E-Commerce-Database-Design-and-Analysis-for-a-Grocery-Store/assets/158052840/065064bc-978c-4e26-a0f8-61ededa8c71c)
+5-5df5-4caa-8b6a-236f330a4453)
+
