@@ -1,13 +1,12 @@
 ## E-Commerce Dashboard Design and Analysis for a Grocery Store
 
 
-Title: E-Commerce Dashboard Design and Analysis for a Grocery Store
-
 Data Analysis Tool: MySQL
 
 Data Visualization Tool: PowerBI
 
-About Dataset:
+Project Description - To design and implement a database for a grocery store. The database should capture and organize various aspects of the store's operations, such as product inventory, customer information, orders, and sales data. Additionally, analyze the data and provide insights to support business decision-making.
+
 
 #### Insights generated:
 
