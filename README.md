@@ -1,7 +1,7 @@
 ## E-Commerce Dashboard Design and Analysis for a Grocery Store
 
 
-Data Analysis Tool: MySQL
+Database Design and Analysis Tool: MySQL
 
 Data Visualization Tool: PowerBI
 
