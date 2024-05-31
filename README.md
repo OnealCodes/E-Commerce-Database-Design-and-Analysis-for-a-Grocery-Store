@@ -1,4 +1,4 @@
-## E-Commerce-Database-Design-and-Analysis-for-a-Grocery-Store
+## E-Commerce Dashboard Design and Analysis for a Grocery Store
 
 
 Title: E-Commerce Dashboard Design and Analysis for a Grocery Store
@@ -9,7 +9,7 @@ Data Visualization Tool: PowerBI
 
 About Dataset:
 
-Insights generated:
+#### Insights generated:
 
 ![EER Diagram](https://github.com/OnealCodes/E-Commerce-Database-Design-and-Analysis-for-a-Grocery-Store/assets/158052840/8e1c2f81-eda1-42e7-bda5-0a6fd07af7d5)
 
